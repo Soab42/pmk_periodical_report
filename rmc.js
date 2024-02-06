@@ -80,7 +80,7 @@ async function scraping(fromDate, toDate) {
               jsonData[username] = responseBody; //can i add something that make it json data
               // console.log(responseBody);
               if (responseBody) {
-                resolve(responseBody);
+                resolve(jsonData);
               }
             }
           });
