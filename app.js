@@ -2,13 +2,16 @@ import express from "express";
 import { startScraping } from "./rmc.js";
 import bodyParser from "body-parser";
 import fs from "fs/promises";
-
+import cors from "cors";
 const app = express();
 const port = 3000;
 
 // Use bodyParser middleware to parse JSON and URL-encoded data
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
+
+// Use cors middleware to enable CORS
+app.use(cors());
 // Define a route to run the script when the API is hit
 app.post("/api/scraping", async (req, res) => {
   const { fromDate, toDate } = req.body;
