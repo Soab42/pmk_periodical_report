@@ -1,7 +1,6 @@
 import { Cluster } from "puppeteer-cluster";
 import * as fs from "fs";
 import { loginCredentials } from "./credentials.js";
-import ExcelJs from "exceljs";
 import readlineSync from "readline-sync";
 async function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -107,25 +106,13 @@ async function scraping(fromDate, toDate) {
               jsonData[username] = responseBody; //can i add something that make it json data
               // console.log(responseBody);
               if (responseBody) {
-                const data = await page.$eval(
-                  ".report-header > table:nth-child(4)",
-                  (table) => {
-                    const rows = Array.from(table.querySelectorAll("tr"));
-                    return rows.map((row) =>
-                      Array.from(row.querySelectorAll("td, th")).map((cell) => {
-                        return cell.textContent.trim();
-                      })
-                    );
-                  }
-                );
-
                 resolve(data);
               }
             }
           });
 
           // Close the browser when done
-          // await browser.close();
+          await browser.close();
         });
 
         // ... existing scraping logic ...
@@ -154,112 +141,6 @@ async function scraping(fromDate, toDate) {
 
   // Save the collected data as a JSON file
   fs.writeFileSync("periodical.json", JSON.stringify(jsonData, null, 2));
-  const workbook = new ExcelJs.Workbook();
-  const worksheet = workbook.addWorksheet("periodical");
-
-  for (const { username } of loginCredentials) {
-    if (resultData[username] && Array.isArray(resultData[username])) {
-      const userData = resultData[username];
-      // console.log("complete " + username);
-      worksheet.addRow([`${username} Branch`]);
-
-      worksheet.addRow([
-        "",
-        "",
-        "",
-        "Member Balance",
-        "",
-        "",
-        "",
-        "",
-        "Savings Balance",
-        "",
-        "Loan Outstanding",
-        "",
-        "Loan No",
-        "",
-        "Borrower No",
-        "",
-        "Current",
-        "",
-        "Expired",
-        "",
-        "Total",
-        "",
-        "Current",
-        "",
-        "Expired",
-        "",
-        "Total",
-        "",
-        "OTR",
-        "PAR",
-      ]);
-      worksheet.addRow([
-        "",
-        "",
-        "",
-        "Prev",
-        "Curr",
-        "In",
-        "Out",
-        "Previous",
-        "Current",
-        "Previous",
-        "Current",
-        "Previous",
-        "Current",
-        "Previous",
-        "Current",
-        "No",
-        "Amount",
-        "No",
-        "Amount",
-        "No",
-        "Amount",
-        "No",
-        "Amount",
-        "No",
-        "Amount",
-        "No",
-        "Amount",
-        "Curr",
-        "Curr",
-      ]);
-
-      // worksheet.mergeCells("A4:A3");
-      // worksheet.getCell("B5").value = "SL. No.";
-      // expect(worksheet.getCell("B5").value).toBe(worksheet.getCell("A4").value);
-      // expect(worksheet.getCell("B5").master).toBe(worksheet.getCell("A4"));
-
-      // // ... merged cells share the same style object
-      // expect(worksheet.getCell("B5").style).toBe(worksheet.getCell("A4").style);
-      // worksheet.getCell("B5").style.font = myFonts.arial;
-      // expect(worksheet.getCell("A4").style.font).toBe(myFonts.arial);
-
-      // // unmerging the cells breaks the style links
-      // worksheet.unMergeCells("A4");
-      // expect(worksheet.getCell("B5").style).not.toBe(
-      //   worksheet.getCell("A4").style
-      // );
-      // expect(worksheet.getCell("B5").style.font).not.toBe(myFonts.arial);
-
-      // // merge by top-left, bottom-right
-      // worksheet.mergeCells("K10", "M12");
-
-      // // merge by start row, start column, end row, end column (equivalent to K10:M12)
-      // worksheet.mergeCells(10, 11, 12, 13);
-
-      for (let i = 0; i < userData.length; i++) {
-        worksheet.addRow(userData[i + 4]);
-      }
-    }
-  }
-
-  // Save the workbook to a file
-  const filePath = `periodical/periodical_report.xlsx`;
-  await workbook.xlsx.writeFile(filePath);
-
   return jsonData;
 }
 
