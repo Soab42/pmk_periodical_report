@@ -12,7 +12,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 // Define a route to run the script when the API is hit
 app.post("/api/scraping", async (req, res) => {
   const { fromDate, toDate } = req.body;
-  console.log(fromDate, toDate);
+  // console.log(fromDate, toDate);
 
   try {
     // Require and run the index.js script with fromDate and toDate parameters
