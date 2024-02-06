@@ -86,7 +86,7 @@ async function scraping(fromDate, toDate) {
           });
 
           // Close the browser when done
-          await browser.close();
+          // await browser.close();
         });
 
         // ... existing scraping logic ...
