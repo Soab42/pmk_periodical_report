@@ -11,7 +11,13 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 // Use cors middleware to enable CORS
-app.use(cors());
+app.use(
+  cors({
+    origin: "https://periodical-report.vercel.app",
+    methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+    credentials: true, // enable set cookie
+  })
+);
 // Define a route to run the script when the API is hit
 app.post("/api/scraping", async (req, res) => {
   const { fromDate, toDate } = req.body;
