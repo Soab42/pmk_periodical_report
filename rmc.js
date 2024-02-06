@@ -1,7 +1,7 @@
 import { Cluster } from "puppeteer-cluster";
 import * as fs from "fs";
 import { loginCredentials } from "./credentials.js";
-import readlineSync from "readline-sync";
+
 async function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
@@ -16,28 +16,6 @@ export function getDefaultStartDate() {
   return firstDayOfMonth.toISOString().split("T")[0];
 }
 
-// // Function to get input from the terminal for the date range
-// function getDateRange() {
-//   const fromDate = readlineSync.question("Enter the from date (YYYY-MM-DD): ");
-//   const toDate = readlineSync.question("Enter the to date (YYYY-MM-DD): ");
-//   return { fromDate, toDate };
-// }
-
-function getDateRange() {
-  const defaultStartDate = getDefaultStartDate();
-
-  const fromDate =
-    readlineSync.question(
-      `Enter the from date (YYYY-MM-DD, default is ${defaultStartDate}): `
-    ) || defaultStartDate;
-
-  const toDate =
-    readlineSync.question(
-      "Enter the to date (YYYY-MM-DD, default is today): "
-    ) || new Date().toISOString().split("T")[0];
-
-  return { fromDate, toDate };
-}
 async function scraping(fromDate, toDate) {
   const cluster = await Cluster.launch({
     concurrency: Cluster.CONCURRENCY_CONTEXT, // Run in parallel
@@ -79,10 +57,6 @@ async function scraping(fromDate, toDate) {
         const toInput = await page.$('input[name="txt_date_to"]');
 
         const searchButton = await page.$(".col-auto > button:nth-child(1)");
-
-        // const fromDate = "2024-01-01";
-        // const toDate = "2024-01-31";
-        // const { fromDate, toDate } = getDateRange(); // Get date range from user input
 
         await fromInput.type(fromDate);
 
@@ -130,9 +104,6 @@ async function scraping(fromDate, toDate) {
   });
 
   for (const { username, password } of loginCredentials) {
-    // console.log("running " + username);
-    // const url = process.env.BASE;
-    // console.log(url);
     cluster.queue({ username, password });
   }
 
@@ -145,7 +116,6 @@ async function scraping(fromDate, toDate) {
 }
 
 export function startScraping({ fromDate, toDate }) {
-  // const { fromDate, toDate } = getDateRange(); // Get date range from user input
   if (fromDate && toDate) {
     return scraping(fromDate, toDate);
   }
