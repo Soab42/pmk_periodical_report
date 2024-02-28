@@ -24,8 +24,8 @@ async function login(page) {
   const passwordInput = await page.$("#__BVID__13");
   const loginButton = await page.$("button.btn:nth-child(3)");
 
-  await usernameInput.type("nayabazarregion6");
-  await passwordInput.type("nayabazarregion2662");
+  await usernameInput.type("username");
+  await passwordInput.type("password");
   await loginButton.click();
 
   await page.waitForNavigation();

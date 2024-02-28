@@ -6,12 +6,13 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-credentials
+credentials.js
+fbs_report.js
 node_modules
 dist
 dist-ssr
 *.local
-fbs_report
+new
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
