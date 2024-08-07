@@ -1,6 +1,7 @@
 import { Cluster } from "puppeteer-cluster";
 import * as fs from "fs";
 import { loginCredentials } from "./credentials.js";
+import ExcelJS from "exceljs"; // Import exceljs for Excel manipulation
 
 async function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -103,8 +104,16 @@ export async function scraping(toDate) {
   await cluster.idle();
   await cluster.close();
 
+  // add excel writing
+  // Write data to Excel using exceljs
+  const workbook = new ExcelJS.Workbook();
+  const worksheet = workbook.addWorksheet("fbs");
+  // Save the workbook to a file
+  const excelFilePath = "./excell/fbs.xlsx";
+  await workbook.xlsx.writeFile(excelFilePath);
+
   // Save the collected data as a JSON file
-  fs.writeFileSync("fbs.json", JSON.stringify(jsonData, null, 2));
+  fs.writeFileSync("./data/fbs.json", JSON.stringify(jsonData, null, 2));
   return jsonData;
 }
 // scraping("2024-02-01");

@@ -1,0 +1,5389 @@
+{
+  "Postogola": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "0",
+      "3": "1600",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "166585",
+      "3": "46783",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "166585",
+      "3": "48383",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Grant A/C",
+      "0",
+      "50000",
+      "350000"
+    ],
+    [
+      "6",
+      "Service Charge of Singer",
+      "0",
+      "29468",
+      "52243"
+    ],
+    [
+      "7",
+      "Advise Fee A/C",
+      "0",
+      "0",
+      "360"
+    ],
+    [
+      "8",
+      "Bank Interest A/C",
+      "0",
+      "1057",
+      "8427"
+    ],
+    [
+      "9",
+      "Stock of Goods-Singer",
+      "0",
+      "196472",
+      "411006"
+    ],
+    [
+      "10",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "11",
+      "Service Charge of Walton",
+      "0",
+      "0",
+      "6500"
+    ],
+    [
+      "12",
+      "Telemedicine Fee",
+      "0",
+      "1200",
+      "1400"
+    ],
+    [
+      "13",
+      "Advance A/C",
+      "0",
+      "0",
+      "6851"
+    ],
+    [
+      "14",
+      "Profit-Diabetes Test",
+      "0",
+      "0",
+      "16235"
+    ],
+    [
+      "15",
+      "Health Card Sale A/C",
+      "0",
+      "185200",
+      "1023600"
+    ],
+    [
+      "Total Receipts",
+      "166585",
+      "511780",
+      "1898022"
+    ],
+    [
+      "16",
+      "Health Card Sale A/C",
+      "0",
+      "0",
+      "313000"
+    ],
+    [
+      "17",
+      "Printing & Stationary A/C",
+      "0",
+      "925",
+      "1720"
+    ],
+    [
+      "18",
+      "Entertainment A/C",
+      "0",
+      "2301",
+      "13983"
+    ],
+    [
+      "19",
+      "Commision of Singer",
+      "0",
+      "3000",
+      "6000"
+    ],
+    [
+      "20",
+      "Bank Charge & Commission A/C",
+      "0",
+      "1056",
+      "4160"
+    ],
+    [
+      "21",
+      "Commision of Walton",
+      "0",
+      "0",
+      "500"
+    ],
+    [
+      "22",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "23",
+      "Service Charge paid Head Office",
+      "0",
+      "300000",
+      "1000000"
+    ],
+    [
+      "24",
+      "Stock of Goods-Singer",
+      "0",
+      "36513",
+      "369274"
+    ],
+    [
+      "25",
+      "Telemedicine Fee",
+      "0",
+      "1400",
+      "1400"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "345195",
+      "1731437  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "166585",
+      "166585",
+      "166585"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "166585",
+      "166585",
+      "166585"
+    ],
+    [
+      "Total Payments",
+      "166585",
+      "511780",
+      "1898022"
+    ]
+  ],
+  "Jatrabari": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "1640",
+      "3": "984",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "21469",
+      "3": "62834",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "23109",
+      "3": "63818",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Advance A/C",
+      "0",
+      "50000",
+      "391735"
+    ],
+    [
+      "6",
+      "Grant A/C",
+      "0",
+      "50000",
+      "350000"
+    ],
+    [
+      "7",
+      "Health Card Sale A/C",
+      "0",
+      "128400",
+      "713200"
+    ],
+    [
+      "8",
+      "Profit of Optic (Glass)",
+      "0",
+      "10409",
+      "13083"
+    ],
+    [
+      "9",
+      "Telemedicine Fee",
+      "0",
+      "2500",
+      "4300"
+    ],
+    [
+      "10",
+      "Advise Fee A/C",
+      "0",
+      "0",
+      "150"
+    ],
+    [
+      "11",
+      "Profit-Diabetes Test",
+      "0",
+      "2795",
+      "15522"
+    ],
+    [
+      "12",
+      "Stock of Goods-Singer",
+      "0",
+      "73026",
+      "289787"
+    ],
+    [
+      "13",
+      "Service Charge of Singer",
+      "0",
+      "5477",
+      "27266"
+    ],
+    [
+      "14",
+      "Diabetes test Steeps",
+      "0",
+      "1180",
+      "6073"
+    ],
+    [
+      "15",
+      "Blood Groupping",
+      "0",
+      "0",
+      "30"
+    ],
+    [
+      "16",
+      "Medicine A/C",
+      "0",
+      "37034",
+      "62550"
+    ],
+    [
+      "17",
+      "Optic (Glass)",
+      "0",
+      "5691",
+      "11317"
+    ],
+    [
+      "18",
+      "Registration Fee",
+      "0",
+      "600",
+      "2350"
+    ],
+    [
+      "19",
+      "Profit of Medicine sale",
+      "0",
+      "9256",
+      "12183"
+    ],
+    [
+      "Total Receipts",
+      "23109",
+      "440186",
+      "1899546"
+    ],
+    [
+      "20",
+      "Office Equipment A/C",
+      "0",
+      "0",
+      "8500"
+    ],
+    [
+      "21",
+      "Bank Charge & Commission A/C",
+      "0",
+      "1483",
+      "8403"
+    ],
+    [
+      "22",
+      "Travelling & Conveyance A/C",
+      "0",
+      "26414",
+      "36490"
+    ],
+    [
+      "23",
+      "Printing & Stationary A/C",
+      "0",
+      "150",
+      "22040"
+    ],
+    [
+      "24",
+      "Entertainment A/C",
+      "0",
+      "8079",
+      "20382"
+    ],
+    [
+      "25",
+      "Stock of Goods-Singer",
+      "0",
+      "70700",
+      "322822"
+    ],
+    [
+      "26",
+      "Commision of Singer",
+      "0",
+      "500",
+      "3000"
+    ],
+    [
+      "27",
+      "Camp Arrangement Fee",
+      "0",
+      "0",
+      "1000"
+    ],
+    [
+      "28",
+      "Salary & Allowance A/C",
+      "0",
+      "122837",
+      "233716"
+    ],
+    [
+      "29",
+      "Mobile & Telephone Bill A/C",
+      "0",
+      "3839",
+      "5687"
+    ],
+    [
+      "30",
+      "Medicine A/C",
+      "0",
+      "44550",
+      "84653"
+    ],
+    [
+      "31",
+      "Service Charge paid Head Office",
+      "0",
+      "0",
+      "930000"
+    ],
+    [
+      "32",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "33",
+      "Profit of Medicine sale",
+      "0",
+      "0",
+      "37725"
+    ],
+    [
+      "34",
+      "Optic (Glass)",
+      "0",
+      "32275",
+      "33761"
+    ],
+    [
+      "35",
+      "Postage & Telegram A/C",
+      "0",
+      "150",
+      "453"
+    ],
+    [
+      "36",
+      "Office Maintenance A/C",
+      "0",
+      "50",
+      "355"
+    ],
+    [
+      "37",
+      "Health Equipment A/C",
+      "0",
+      "1750",
+      "1750"
+    ],
+    [
+      "38",
+      "Advance A/C",
+      "0",
+      "100000",
+      "100000"
+    ],
+    [
+      "39",
+      "Telemedicine Fee",
+      "0",
+      "4300",
+      "4300"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "417077",
+      "1876437  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "1640",
+      "1640",
+      "1640"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "21469",
+      "21469",
+      "21469"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "23109",
+      "23109",
+      "23109"
+    ],
+    [
+      "Total Payments",
+      "23109",
+      "440186",
+      "1899546"
+    ]
+  ],
+  "Konapara": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "2600",
+      "3": "800",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "47935",
+      "3": "16330",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "50535",
+      "3": "17130",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Optic (Glass)",
+      "0",
+      "0",
+      "60"
+    ],
+    [
+      "6",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "7977"
+    ],
+    [
+      "7",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "12000"
+    ],
+    [
+      "8",
+      "Health Card Sale A/C",
+      "0",
+      "138000",
+      "861800"
+    ],
+    [
+      "9",
+      "Profit of Optic (Glass)",
+      "0",
+      "0",
+      "140"
+    ],
+    [
+      "10",
+      "Service Charge of Singer",
+      "0",
+      "0",
+      "30131"
+    ],
+    [
+      "11",
+      "Advise Fee A/C",
+      "0",
+      "0",
+      "7950"
+    ],
+    [
+      "12",
+      "Profit-Diabetes Test",
+      "0",
+      "0",
+      "17618"
+    ],
+    [
+      "13",
+      "Grant A/C",
+      "0",
+      "50000",
+      "550000"
+    ],
+    [
+      "14",
+      "Stock of Goods-Singer",
+      "0",
+      "0",
+      "168037"
+    ],
+    [
+      "15",
+      "Advance A/C",
+      "0",
+      "0",
+      "49000"
+    ],
+    [
+      "Total Receipts",
+      "50535",
+      "205130",
+      "1704713"
+    ],
+    [
+      "16",
+      "Office Equipment A/C",
+      "0",
+      "0",
+      "2700"
+    ],
+    [
+      "17",
+      "Health Equipment A/C",
+      "0",
+      "0",
+      "13375"
+    ],
+    [
+      "18",
+      "Furniture & Fixture A/C",
+      "0",
+      "0",
+      "8500"
+    ],
+    [
+      "19",
+      "Medicine A/C",
+      "0",
+      "0",
+      "275"
+    ],
+    [
+      "20",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "18605"
+    ],
+    [
+      "21",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "12000"
+    ],
+    [
+      "22",
+      "Bank Charge & Commission A/C",
+      "0",
+      "1645",
+      "10395"
+    ],
+    [
+      "23",
+      "Salary & Allowance A/C",
+      "0",
+      "0",
+      "261556"
+    ],
+    [
+      "24",
+      "Printing & Stationary A/C",
+      "0",
+      "1490",
+      "37220"
+    ],
+    [
+      "25",
+      "Office Maintenance A/C",
+      "0",
+      "300",
+      "2890"
+    ],
+    [
+      "26",
+      "Entertainment A/C",
+      "0",
+      "0",
+      "620"
+    ],
+    [
+      "27",
+      "Misc. Expenses A/C",
+      "0",
+      "0",
+      "45689"
+    ],
+    [
+      "28",
+      "Postage & Telegram A/C",
+      "0",
+      "0",
+      "300"
+    ],
+    [
+      "29",
+      "Commision of Singer",
+      "0",
+      "0",
+      "1000"
+    ],
+    [
+      "30",
+      "Stock of Goods-Singer",
+      "0",
+      "0",
+      "182376"
+    ],
+    [
+      "31",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "32",
+      "Advance A/C",
+      "0",
+      "0",
+      "13600"
+    ],
+    [
+      "33",
+      "Travelling & Conveyance A/C",
+      "0",
+      "1160",
+      "4677"
+    ],
+    [
+      "34",
+      "Service Charge paid Head Office",
+      "0",
+      "150000",
+      "1017000"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "154595",
+      "1654178  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "2600",
+      "2600",
+      "2600"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "47935",
+      "47935",
+      "47935"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "50535",
+      "50535",
+      "50535"
+    ],
+    [
+      "Total Payments",
+      "50535",
+      "205130",
+      "1704713"
+    ]
+  ],
+  "Badda": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "800",
+      "3": "1200",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "169198",
+      "3": "307248",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "169998",
+      "3": "308448",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "23350"
+    ],
+    [
+      "6",
+      "Health Card Sale A/C",
+      "0",
+      "139800",
+      "754800"
+    ],
+    [
+      "7",
+      "Service Charge of Singer",
+      "0",
+      "9780",
+      "50072"
+    ],
+    [
+      "8",
+      "Telemedicine Fee",
+      "0",
+      "0",
+      "300"
+    ],
+    [
+      "9",
+      "Advise Fee A/C",
+      "0",
+      "0",
+      "1050"
+    ],
+    [
+      "10",
+      "Profit-Diabetes Test",
+      "0",
+      "0",
+      "260"
+    ],
+    [
+      "11",
+      "Stock of Goods-Singer",
+      "0",
+      "65200",
+      "292818"
+    ],
+    [
+      "12",
+      "Grant A/C",
+      "0",
+      "50000",
+      "250000"
+    ],
+    [
+      "13",
+      "Advance A/C",
+      "0",
+      "0",
+      "190906"
+    ],
+    [
+      "14",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "15",
+      "Service Charge of Walton",
+      "0",
+      "0",
+      "6500"
+    ],
+    [
+      "16",
+      "Misc. Expenses A/C",
+      "0",
+      "0",
+      "300"
+    ],
+    [
+      "Total Receipts",
+      "169998",
+      "573228",
+      "1591756"
+    ],
+    [
+      "17",
+      "Furniture & Fixture A/C",
+      "0",
+      "0",
+      "8500"
+    ],
+    [
+      "18",
+      "Advance A/C",
+      "0",
+      "187625",
+      "190906"
+    ],
+    [
+      "19",
+      "Bank Charge & Commission A/C",
+      "0",
+      "845",
+      "4951"
+    ],
+    [
+      "20",
+      "Office Maintenance A/C",
+      "0",
+      "0",
+      "2540"
+    ],
+    [
+      "21",
+      "Commision of Singer",
+      "0",
+      "1000",
+      "3000"
+    ],
+    [
+      "22",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "23",
+      "Printing & Stationary A/C",
+      "0",
+      "0",
+      "21175"
+    ],
+    [
+      "24",
+      "Stock of Goods-Singer",
+      "0",
+      "63460",
+      "322936"
+    ],
+    [
+      "25",
+      "Fuel & Lubricant A/C",
+      "0",
+      "0",
+      "2000"
+    ],
+    [
+      "26",
+      "Entertainment A/C",
+      "0",
+      "0",
+      "250"
+    ],
+    [
+      "27",
+      "Commision of Walton",
+      "0",
+      "0",
+      "500"
+    ],
+    [
+      "28",
+      "Service Charge paid Head Office",
+      "0",
+      "150000",
+      "843000"
+    ],
+    [
+      "29",
+      "Misc. Expenses A/C",
+      "0",
+      "0",
+      "300"
+    ],
+    [
+      "30",
+      "Telemedicine Fee",
+      "0",
+      "300",
+      "300"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "403230",
+      "1421758  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "800",
+      "800",
+      "800"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "169198",
+      "169198",
+      "169198"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "169998",
+      "169998",
+      "169998"
+    ],
+    [
+      "Total Payments",
+      "169998",
+      "573228",
+      "1591756"
+    ]
+  ],
+  "Sabuzbag": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "1468",
+      "3": "600",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "186712",
+      "3": "23532",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "188180",
+      "3": "24132",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Advance A/C",
+      "0",
+      "0",
+      "258287"
+    ],
+    [
+      "6",
+      "Medicine A/C",
+      "0",
+      "0",
+      "14821"
+    ],
+    [
+      "7",
+      "Optic (Glass)",
+      "0",
+      "0",
+      "10120"
+    ],
+    [
+      "8",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "10469"
+    ],
+    [
+      "9",
+      "Grant A/C",
+      "0",
+      "50000",
+      "350000"
+    ],
+    [
+      "10",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "10000"
+    ],
+    [
+      "11",
+      "Health Card Sale A/C",
+      "0",
+      "122000",
+      "675800"
+    ],
+    [
+      "12",
+      "Profit of Optic (Glass)",
+      "0",
+      "0",
+      "6080"
+    ],
+    [
+      "13",
+      "Profit of Medicine sale",
+      "0",
+      "0",
+      "1759"
+    ],
+    [
+      "14",
+      "Test-Investigation A/C",
+      "0",
+      "0",
+      "100"
+    ],
+    [
+      "15",
+      "Telemedicine Fee",
+      "0",
+      "0",
+      "4500"
+    ],
+    [
+      "16",
+      "Advise Fee A/C",
+      "0",
+      "0",
+      "1770"
+    ],
+    [
+      "17",
+      "Pregnancy Test Steep",
+      "0",
+      "0",
+      "50"
+    ],
+    [
+      "18",
+      "Ray Therapy",
+      "0",
+      "0",
+      "150"
+    ],
+    [
+      "19",
+      "Profit-Diabetes Test",
+      "0",
+      "0",
+      "18186"
+    ],
+    [
+      "20",
+      "Blood Groupping",
+      "0",
+      "0",
+      "540"
+    ],
+    [
+      "21",
+      "Stock of Goods-Singer",
+      "0",
+      "121704",
+      "305880"
+    ],
+    [
+      "22",
+      "Registration Fee",
+      "0",
+      "0",
+      "1600"
+    ],
+    [
+      "23",
+      "Service Charge of Singer",
+      "0",
+      "18256",
+      "28332"
+    ],
+    [
+      "Total Receipts",
+      "188180",
+      "336092",
+      "1698444"
+    ],
+    [
+      "24",
+      "Health Equipment A/C",
+      "0",
+      "0",
+      "13500"
+    ],
+    [
+      "25",
+      "Furniture & Fixture A/C",
+      "0",
+      "0",
+      "8900"
+    ],
+    [
+      "26",
+      "Medicine A/C",
+      "0",
+      "0",
+      "15305"
+    ],
+    [
+      "27",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "3500"
+    ],
+    [
+      "28",
+      "Bank Charge & Commission A/C",
+      "0",
+      "840",
+      "7868"
+    ],
+    [
+      "29",
+      "Salary & Allowance A/C",
+      "0",
+      "0",
+      "560090"
+    ],
+    [
+      "30",
+      "Travelling & Conveyance A/C",
+      "0",
+      "2880",
+      "4250"
+    ],
+    [
+      "31",
+      "Printing & Stationary A/C",
+      "0",
+      "420",
+      "22405"
+    ],
+    [
+      "32",
+      "Office Maintenance A/C",
+      "0",
+      "380",
+      "2430"
+    ],
+    [
+      "33",
+      "Entertainment A/C",
+      "0",
+      "215",
+      "4604"
+    ],
+    [
+      "34",
+      "Misc. Expenses A/C",
+      "0",
+      "0",
+      "818"
+    ],
+    [
+      "35",
+      "Stock of Goods-Singer",
+      "0",
+      "0",
+      "330597"
+    ],
+    [
+      "36",
+      "Commision of Singer",
+      "0",
+      "2000",
+      "3000"
+    ],
+    [
+      "37",
+      "Optic (Glass)",
+      "0",
+      "0",
+      "2420"
+    ],
+    [
+      "38",
+      "Advance A/C",
+      "0",
+      "41287",
+      "258287"
+    ],
+    [
+      "39",
+      "Fuel & Lubricant A/C",
+      "0",
+      "0",
+      "1000"
+    ],
+    [
+      "40",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "41",
+      "Service Charge paid Head Office",
+      "0",
+      "95000",
+      "245000"
+    ],
+    [
+      "42",
+      "Training & Workshop A/C",
+      "0",
+      "390",
+      "390"
+    ],
+    [
+      "43",
+      "Telemedicine Fee",
+      "0",
+      "4500",
+      "4500"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "147912",
+      "1510264  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "1468",
+      "1468",
+      "1468"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "186712",
+      "186712",
+      "186712"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "188180",
+      "188180",
+      "188180"
+    ],
+    [
+      "Total Payments",
+      "188180",
+      "336092",
+      "1698444"
+    ]
+  ],
+  "Dakkhin khan": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "0",
+      "3": "0",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "32640",
+      "3": "77977",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "32640",
+      "3": "77977",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "2465"
+    ],
+    [
+      "6",
+      "Grant A/C",
+      "0",
+      "50000",
+      "350000"
+    ],
+    [
+      "7",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "14000"
+    ],
+    [
+      "8",
+      "Telemedicine Fee",
+      "0",
+      "100",
+      "1450"
+    ],
+    [
+      "9",
+      "Profit-Diabetes Test",
+      "0",
+      "0",
+      "18990"
+    ],
+    [
+      "10",
+      "Pregnancy Test Steep",
+      "0",
+      "0",
+      "150"
+    ],
+    [
+      "11",
+      "Nebulization",
+      "0",
+      "0",
+      "200"
+    ],
+    [
+      "12",
+      "Advance A/C",
+      "0",
+      "0",
+      "206123"
+    ],
+    [
+      "13",
+      "Stock of Goods-Singer",
+      "0",
+      "0",
+      "396117"
+    ],
+    [
+      "14",
+      "Blood Groupping",
+      "0",
+      "0",
+      "60"
+    ],
+    [
+      "15",
+      "Health Equipment A/C",
+      "0",
+      "0",
+      "1600"
+    ],
+    [
+      "16",
+      "Medicine A/C",
+      "0",
+      "0",
+      "100"
+    ],
+    [
+      "17",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "18",
+      "Service Charge of Walton",
+      "0",
+      "0",
+      "1500"
+    ],
+    [
+      "19",
+      "Service Charge of Singer",
+      "0",
+      "0",
+      "39013"
+    ],
+    [
+      "20",
+      "Health Card Sale A/C",
+      "0",
+      "87000",
+      "561400"
+    ],
+    [
+      "Total Receipts",
+      "32640",
+      "215077",
+      "1614568"
+    ],
+    [
+      "21",
+      "Health Equipment A/C",
+      "0",
+      "0",
+      "17840"
+    ],
+    [
+      "22",
+      "Advance A/C",
+      "0",
+      "44000",
+      "205313"
+    ],
+    [
+      "23",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "15180"
+    ],
+    [
+      "24",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "14000"
+    ],
+    [
+      "25",
+      "Bank Charge & Commission A/C",
+      "0",
+      "1070",
+      "5057"
+    ],
+    [
+      "26",
+      "Salary & Allowance A/C",
+      "0",
+      "0",
+      "389633"
+    ],
+    [
+      "27",
+      "Travelling & Conveyance A/C",
+      "0",
+      "0",
+      "115"
+    ],
+    [
+      "28",
+      "Printing & Stationary A/C",
+      "0",
+      "0",
+      "30288"
+    ],
+    [
+      "29",
+      "Office Maintenance A/C",
+      "0",
+      "0",
+      "2225"
+    ],
+    [
+      "30",
+      "Entertainment A/C",
+      "0",
+      "0",
+      "310"
+    ],
+    [
+      "31",
+      "Commision Expenses A/C",
+      "0",
+      "0",
+      "500"
+    ],
+    [
+      "32",
+      "Commision of Singer",
+      "0",
+      "0",
+      "3000"
+    ],
+    [
+      "33",
+      "Stock of Goods-Singer",
+      "0",
+      "56917",
+      "396117"
+    ],
+    [
+      "34",
+      "Service Charge paid Head Office",
+      "0",
+      "79000",
+      "479000"
+    ],
+    [
+      "35",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "36",
+      "Commision of Walton",
+      "0",
+      "0",
+      "500"
+    ],
+    [
+      "37",
+      "Telemedicine Fee",
+      "0",
+      "1450",
+      "1450"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "182437",
+      "1581928  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "32640",
+      "32640",
+      "32640"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "32640",
+      "32640",
+      "32640"
+    ],
+    [
+      "Total Payments",
+      "32640",
+      "215077",
+      "1614568"
+    ]
+  ],
+  "Fotullaone": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "2200",
+      "3": "1666",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "108093",
+      "3": "266956",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "110293",
+      "3": "268622",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Advance A/C",
+      "0",
+      "30000",
+      "166674"
+    ],
+    [
+      "6",
+      "Grant A/C",
+      "0",
+      "50000",
+      "350000"
+    ],
+    [
+      "7",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "12000"
+    ],
+    [
+      "8",
+      "Health Card Sale A/C",
+      "0",
+      "258200",
+      "1474200"
+    ],
+    [
+      "9",
+      "Service Charge of Singer",
+      "0",
+      "4890",
+      "130500"
+    ],
+    [
+      "10",
+      "Profit-Diabetes Test",
+      "0",
+      "0",
+      "26365"
+    ],
+    [
+      "11",
+      "Pregnancy Test Steep",
+      "0",
+      "0",
+      "220"
+    ],
+    [
+      "12",
+      "Advise Fee A/C",
+      "0",
+      "0",
+      "240"
+    ],
+    [
+      "13",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "95600"
+    ],
+    [
+      "14",
+      "Service Charge of Walton",
+      "0",
+      "0",
+      "27090"
+    ],
+    [
+      "15",
+      "Stock of Goods-Singer",
+      "0",
+      "32600",
+      "633507"
+    ],
+    [
+      "16",
+      "Telemedicine Fee",
+      "0",
+      "3200",
+      "3200"
+    ],
+    [
+      "Total Receipts",
+      "110293",
+      "647512",
+      "2919596"
+    ],
+    [
+      "17",
+      "Office Equipment A/C",
+      "0",
+      "0",
+      "9835"
+    ],
+    [
+      "18",
+      "Furniture & Fixture A/C",
+      "0",
+      "0",
+      "12900"
+    ],
+    [
+      "19",
+      "Advance A/C",
+      "0",
+      "0",
+      "183317"
+    ],
+    [
+      "20",
+      "Medicine A/C",
+      "0",
+      "0",
+      "7560"
+    ],
+    [
+      "21",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "3500"
+    ],
+    [
+      "22",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "12000"
+    ],
+    [
+      "23",
+      "Bank Charge & Commission A/C",
+      "0",
+      "668",
+      "4426"
+    ],
+    [
+      "24",
+      "Salary & Allowance A/C",
+      "0",
+      "0",
+      "233416"
+    ],
+    [
+      "25",
+      "Travelling & Conveyance A/C",
+      "0",
+      "0",
+      "1835"
+    ],
+    [
+      "26",
+      "Printing & Stationary A/C",
+      "0",
+      "0",
+      "20300"
+    ],
+    [
+      "27",
+      "Entertainment A/C",
+      "0",
+      "168",
+      "2333"
+    ],
+    [
+      "28",
+      "Fuel & Lubricant A/C",
+      "0",
+      "0",
+      "8000"
+    ],
+    [
+      "29",
+      "Misc. Expenses A/C",
+      "0",
+      "0",
+      "330"
+    ],
+    [
+      "30",
+      "Postage & Telegram A/C",
+      "0",
+      "0",
+      "810"
+    ],
+    [
+      "31",
+      "Mobile & Telephone Bill A/C",
+      "0",
+      "0",
+      "2000"
+    ],
+    [
+      "32",
+      "Pregnancy Test Steep",
+      "0",
+      "0",
+      "195"
+    ],
+    [
+      "33",
+      "Commision of Singer",
+      "0",
+      "500",
+      "10000"
+    ],
+    [
+      "34",
+      "Stock of Goods-Singer",
+      "0",
+      "293383",
+      "677846"
+    ],
+    [
+      "35",
+      "Commision of Walton",
+      "0",
+      "0",
+      "2000"
+    ],
+    [
+      "36",
+      "Grant A/C",
+      "0",
+      "0",
+      "200000"
+    ],
+    [
+      "37",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "74200"
+    ],
+    [
+      "38",
+      "Service Charge paid Head Office",
+      "0",
+      "240000",
+      "1340000"
+    ],
+    [
+      "39",
+      "Telemedicine Fee",
+      "0",
+      "2500",
+      "2500"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "537219",
+      "2809303  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "2200",
+      "2200",
+      "2200"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "108093",
+      "108093",
+      "108093"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "110293",
+      "110293",
+      "110293"
+    ],
+    [
+      "Total Payments",
+      "110293",
+      "647512",
+      "2919596"
+    ]
+  ],
+  "Fotulla-2": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "0",
+      "3": "1290",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "172383",
+      "3": "84501",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "172383",
+      "3": "85791",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "877"
+    ],
+    [
+      "6",
+      "Grant A/C",
+      "0",
+      "50000",
+      "650000"
+    ],
+    [
+      "7",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "6000"
+    ],
+    [
+      "8",
+      "Health Card Sale A/C",
+      "0",
+      "145800",
+      "1268000"
+    ],
+    [
+      "9",
+      "Stock of Goods-Singer",
+      "0",
+      "0",
+      "197551"
+    ],
+    [
+      "10",
+      "Bank Interest A/C",
+      "0",
+      "420",
+      "8192"
+    ],
+    [
+      "11",
+      "Misc. Income A/C",
+      "0",
+      "0",
+      "2000"
+    ],
+    [
+      "12",
+      "Profit-Diabetes Test",
+      "0",
+      "0",
+      "9948"
+    ],
+    [
+      "13",
+      "Service Charge of Singer",
+      "0",
+      "0",
+      "10666"
+    ],
+    [
+      "14",
+      "Telemedicine Fee",
+      "0",
+      "3900",
+      "5200"
+    ],
+    [
+      "15",
+      "Electric Bill A/C",
+      "0",
+      "1000",
+      "1000"
+    ],
+    [
+      "16",
+      "Advance A/C",
+      "0",
+      "5000",
+      "5000"
+    ],
+    [
+      "Total Receipts",
+      "172383",
+      "291911",
+      "2164434"
+    ],
+    [
+      "17",
+      "Office Equipment A/C",
+      "0",
+      "0",
+      "13785"
+    ],
+    [
+      "18",
+      "Furniture & Fixture A/C",
+      "0",
+      "0",
+      "6000"
+    ],
+    [
+      "19",
+      "Medicine A/C",
+      "0",
+      "0",
+      "7973"
+    ],
+    [
+      "20",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "3500"
+    ],
+    [
+      "21",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "6000"
+    ],
+    [
+      "22",
+      "Bank Charge & Commission A/C",
+      "0",
+      "997",
+      "10269"
+    ],
+    [
+      "23",
+      "Salary & Allowance A/C",
+      "0",
+      "0",
+      "266048"
+    ],
+    [
+      "24",
+      "Travelling & Conveyance A/C",
+      "0",
+      "0",
+      "1125"
+    ],
+    [
+      "25",
+      "Printing & Stationary A/C",
+      "0",
+      "0",
+      "12000"
+    ],
+    [
+      "26",
+      "Office Maintenance A/C",
+      "0",
+      "60",
+      "210"
+    ],
+    [
+      "27",
+      "Entertainment A/C",
+      "0",
+      "863",
+      "5496"
+    ],
+    [
+      "28",
+      "Stock of Goods-Singer",
+      "0",
+      "113508",
+      "274045"
+    ],
+    [
+      "29",
+      "Commision of Singer",
+      "0",
+      "0",
+      "1500"
+    ],
+    [
+      "30",
+      "Service Charge paid Head Office",
+      "0",
+      "0",
+      "1380000"
+    ],
+    [
+      "31",
+      "Telemedicine Fee",
+      "0",
+      "4500",
+      "4500"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "119928",
+      "1992451  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "172383",
+      "172383",
+      "172383"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "172383",
+      "172383",
+      "172383"
+    ],
+    [
+      "Total Payments",
+      "172383",
+      "292311",
+      "2164834"
+    ]
+  ],
+  "Uttara": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "1600",
+      "3": "800",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "61722",
+      "3": "43637",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "63322",
+      "3": "44437",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "1822"
+    ],
+    [
+      "6",
+      "Grant A/C",
+      "0",
+      "0",
+      "400000"
+    ],
+    [
+      "7",
+      "Health Card Sale A/C",
+      "0",
+      "121400",
+      "845000"
+    ],
+    [
+      "8",
+      "Service Charge of Singer",
+      "0",
+      "0",
+      "56366"
+    ],
+    [
+      "9",
+      "Telemedicine Fee",
+      "0",
+      "1700",
+      "3200"
+    ],
+    [
+      "10",
+      "Advise Fee A/C",
+      "0",
+      "0",
+      "270"
+    ],
+    [
+      "11",
+      "Profit-Diabetes Test",
+      "0",
+      "0",
+      "13083"
+    ],
+    [
+      "12",
+      "Nebulization",
+      "0",
+      "0",
+      "180"
+    ],
+    [
+      "13",
+      "Stock of Goods-Singer",
+      "0",
+      "0",
+      "381023"
+    ],
+    [
+      "14",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "31400"
+    ],
+    [
+      "15",
+      "Service Charge of Walton",
+      "0",
+      "0",
+      "7590"
+    ],
+    [
+      "16",
+      "Advance A/C",
+      "0",
+      "0",
+      "265000"
+    ],
+    [
+      "Total Receipts",
+      "63322",
+      "167537",
+      "2004934"
+    ],
+    [
+      "17",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "2500"
+    ],
+    [
+      "18",
+      "Health Card Sale A/C",
+      "0",
+      "0",
+      "182400"
+    ],
+    [
+      "19",
+      "Bank Charge & Commission A/C",
+      "0",
+      "725",
+      "4990"
+    ],
+    [
+      "20",
+      "Office Maintenance A/C",
+      "0",
+      "0",
+      "1895"
+    ],
+    [
+      "21",
+      "Entertainment A/C",
+      "0",
+      "0",
+      "10234"
+    ],
+    [
+      "22",
+      "Commision of Singer",
+      "0",
+      "0",
+      "2500"
+    ],
+    [
+      "23",
+      "Commision of Walton",
+      "0",
+      "0",
+      "500"
+    ],
+    [
+      "24",
+      "Stock of Goods-Singer",
+      "0",
+      "0",
+      "431441"
+    ],
+    [
+      "25",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "31400"
+    ],
+    [
+      "26",
+      "Travelling & Conveyance A/C",
+      "0",
+      "290",
+      "552"
+    ],
+    [
+      "27",
+      "Advance A/C",
+      "0",
+      "0",
+      "165000"
+    ],
+    [
+      "28",
+      "Printing & Stationary A/C",
+      "0",
+      "0",
+      "20000"
+    ],
+    [
+      "29",
+      "Service Charge paid Head Office",
+      "0",
+      "100000",
+      "1085000"
+    ],
+    [
+      "30",
+      "Telemedicine Fee",
+      "0",
+      "3200",
+      "3200"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "104215",
+      "1941612  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "1600",
+      "1600",
+      "1600"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "61722",
+      "61722",
+      "61722"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "63322",
+      "63322",
+      "63322"
+    ],
+    [
+      "Total Payments",
+      "63322",
+      "167537",
+      "2004934"
+    ]
+  ],
+  "Azampur": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "600",
+      "3": "39690",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "80566",
+      "3": "45428",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "81166",
+      "3": "85118",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Service Charge of Singer",
+      "0",
+      "3260",
+      "62851"
+    ],
+    [
+      "6",
+      "Telemedicine Fee",
+      "0",
+      "0",
+      "800"
+    ],
+    [
+      "7",
+      "Advise Fee A/C",
+      "0",
+      "0",
+      "270"
+    ],
+    [
+      "8",
+      "Pregnancy Test Steep",
+      "0",
+      "0",
+      "165"
+    ],
+    [
+      "9",
+      "Grant A/C",
+      "0",
+      "0",
+      "500000"
+    ],
+    [
+      "10",
+      "Health Card Sale A/C",
+      "0",
+      "130000",
+      "777800"
+    ],
+    [
+      "11",
+      "Stock of Goods-Singer",
+      "0",
+      "21730",
+      "358136"
+    ],
+    [
+      "12",
+      "Advance A/C",
+      "0",
+      "0",
+      "248806"
+    ],
+    [
+      "13",
+      "Blood Groupping",
+      "0",
+      "0",
+      "180"
+    ],
+    [
+      "14",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "4762"
+    ],
+    [
+      "15",
+      "Profit-Diabetes Test",
+      "0",
+      "0",
+      "11258"
+    ],
+    [
+      "Total Receipts",
+      "81166",
+      "240108",
+      "1965028"
+    ],
+    [
+      "16",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "2500"
+    ],
+    [
+      "17",
+      "Bank Charge & Commission A/C",
+      "0",
+      "725",
+      "6598"
+    ],
+    [
+      "18",
+      "Salary & Allowance A/C",
+      "0",
+      "0",
+      "11538"
+    ],
+    [
+      "19",
+      "Office Maintenance A/C",
+      "0",
+      "0",
+      "920"
+    ],
+    [
+      "20",
+      "Pregnancy Test Steep",
+      "0",
+      "0",
+      "310"
+    ],
+    [
+      "21",
+      "Stock of Goods-Singer",
+      "0",
+      "56917",
+      "358136"
+    ],
+    [
+      "22",
+      "Commision of Singer",
+      "0",
+      "500",
+      "5500"
+    ],
+    [
+      "23",
+      "Fuel & Lubricant A/C",
+      "0",
+      "0",
+      "2000"
+    ],
+    [
+      "24",
+      "Entertainment A/C",
+      "0",
+      "0",
+      "90"
+    ],
+    [
+      "25",
+      "Printing & Stationary A/C",
+      "0",
+      "0",
+      "21070"
+    ],
+    [
+      "26",
+      "Service Charge paid Head Office",
+      "0",
+      "100000",
+      "1343000"
+    ],
+    [
+      "27",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "31400"
+    ],
+    [
+      "28",
+      "Advance A/C",
+      "0",
+      "0",
+      "100000"
+    ],
+    [
+      "29",
+      "Telemedicine Fee",
+      "0",
+      "800",
+      "800"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "158942",
+      "1883862  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "600",
+      "600",
+      "600"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "80566",
+      "80566",
+      "80566"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "81166",
+      "81166",
+      "81166"
+    ],
+    [
+      "Total Payments",
+      "81166",
+      "240108",
+      "1965028"
+    ]
+  ],
+  "Shamoly": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "200",
+      "3": "400",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "50906",
+      "3": "35486",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "51106",
+      "3": "35886",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Advance A/C",
+      "0",
+      "0",
+      "80000"
+    ],
+    [
+      "6",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "3271"
+    ],
+    [
+      "7",
+      "Grant A/C",
+      "0",
+      "0",
+      "300000"
+    ],
+    [
+      "8",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "4000"
+    ],
+    [
+      "9",
+      "Health Card Sale A/C",
+      "0",
+      "116000",
+      "753800"
+    ],
+    [
+      "10",
+      "Registration Fee",
+      "0",
+      "0",
+      "1400"
+    ],
+    [
+      "11",
+      "Profit of Optic (Glass)",
+      "0",
+      "0",
+      "1000"
+    ],
+    [
+      "12",
+      "Profit of Medicine sale",
+      "0",
+      "0",
+      "6610"
+    ],
+    [
+      "13",
+      "Test-Investigation A/C",
+      "0",
+      "0",
+      "600"
+    ],
+    [
+      "14",
+      "Bank Interest A/C",
+      "0",
+      "442",
+      "4636"
+    ],
+    [
+      "15",
+      "Telemedicine Fee",
+      "0",
+      "2600",
+      "2950"
+    ],
+    [
+      "16",
+      "Advise Fee A/C",
+      "0",
+      "0",
+      "360"
+    ],
+    [
+      "17",
+      "Misc. Income A/C",
+      "0",
+      "0",
+      "50"
+    ],
+    [
+      "18",
+      "Profit-Diabetes Test",
+      "0",
+      "0",
+      "23634"
+    ],
+    [
+      "19",
+      "Service Charge of Singer",
+      "0",
+      "0",
+      "19022"
+    ],
+    [
+      "20",
+      "Service Charge of Walton",
+      "0",
+      "0",
+      "6500"
+    ],
+    [
+      "21",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "22",
+      "Stock of Goods-Singer",
+      "0",
+      "0",
+      "199548"
+    ],
+    [
+      "Total Receipts",
+      "51106",
+      "154928",
+      "1428781"
+    ],
+    [
+      "23",
+      "Health Equipment A/C",
+      "0",
+      "0",
+      "13575"
+    ],
+    [
+      "24",
+      "Advance A/C",
+      "0",
+      "20000",
+      "80000"
+    ],
+    [
+      "25",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "11155"
+    ],
+    [
+      "26",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "4000"
+    ],
+    [
+      "27",
+      "Bank Charge & Commission A/C",
+      "0",
+      "1172",
+      "7641"
+    ],
+    [
+      "28",
+      "Salary & Allowance A/C",
+      "0",
+      "0",
+      "381184"
+    ],
+    [
+      "29",
+      "Travelling & Conveyance A/C",
+      "0",
+      "0",
+      "760"
+    ],
+    [
+      "30",
+      "Printing & Stationary A/C",
+      "0",
+      "0",
+      "38210"
+    ],
+    [
+      "31",
+      "Office Maintenance A/C",
+      "0",
+      "0",
+      "2826"
+    ],
+    [
+      "32",
+      "Entertainment A/C",
+      "0",
+      "0",
+      "1726"
+    ],
+    [
+      "33",
+      "Stock of Goods-Singer",
+      "0",
+      "0",
+      "199548"
+    ],
+    [
+      "34",
+      "Commision of Singer",
+      "0",
+      "0",
+      "2500"
+    ],
+    [
+      "35",
+      "Commision of Walton",
+      "0",
+      "0",
+      "500"
+    ],
+    [
+      "36",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "37",
+      "Service Charge paid Head Office",
+      "0",
+      "80000",
+      "610000"
+    ],
+    [
+      "38",
+      "Telemedicine Fee",
+      "0",
+      "2650",
+      "2650"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "103822",
+      "1377675  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "200",
+      "200",
+      "200"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "50906",
+      "50906",
+      "50906"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "51106",
+      "51106",
+      "51106"
+    ],
+    [
+      "Total Payments",
+      "51106",
+      "154928",
+      "1428781"
+    ]
+  ],
+  "Lalbag": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "1152",
+      "3": "400",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "1640",
+      "3": "19154",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "2792",
+      "3": "19554",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Medicine A/C",
+      "0",
+      "44044",
+      "91986"
+    ],
+    [
+      "6",
+      "Optic (Glass)",
+      "0",
+      "3860",
+      "10175"
+    ],
+    [
+      "7",
+      "Grant A/C",
+      "0",
+      "50000",
+      "250000"
+    ],
+    [
+      "8",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "10000"
+    ],
+    [
+      "9",
+      "Health Card Sale A/C",
+      "0",
+      "132600",
+      "623600"
+    ],
+    [
+      "10",
+      "Registration Fee",
+      "0",
+      "0",
+      "3000"
+    ],
+    [
+      "11",
+      "Profit of Optic (Glass)",
+      "0",
+      "6940",
+      "20525"
+    ],
+    [
+      "12",
+      "Profit of Medicine sale",
+      "0",
+      "11011",
+      "22921"
+    ],
+    [
+      "13",
+      "Test-Investigation A/C",
+      "0",
+      "0",
+      "1100"
+    ],
+    [
+      "14",
+      "Telemedicine Fee",
+      "0",
+      "4600",
+      "15800"
+    ],
+    [
+      "15",
+      "Advise Fee A/C",
+      "0",
+      "400",
+      "550"
+    ],
+    [
+      "16",
+      "Profit-Diabetes Test",
+      "0",
+      "3020",
+      "23769"
+    ],
+    [
+      "17",
+      "Ray Therapy",
+      "0",
+      "0",
+      "360"
+    ],
+    [
+      "18",
+      "Advance A/C",
+      "0",
+      "104000",
+      "589016"
+    ],
+    [
+      "19",
+      "Stock of Goods-Singer",
+      "0",
+      "68211",
+      "322874"
+    ],
+    [
+      "20",
+      "Blood Groupping",
+      "0",
+      "0",
+      "120"
+    ],
+    [
+      "21",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "22",
+      "Service Charge of Walton",
+      "0",
+      "0",
+      "6500"
+    ],
+    [
+      "23",
+      "Diabetes test Steeps",
+      "0",
+      "1280",
+      "5891"
+    ],
+    [
+      "24",
+      "Service Charge of Singer",
+      "0",
+      "10270",
+      "75167"
+    ],
+    [
+      "25",
+      "Misc. Income A/C",
+      "0",
+      "1217",
+      "1217"
+    ],
+    [
+      "Total Receipts",
+      "2792",
+      "461007",
+      "2095971"
+    ],
+    [
+      "26",
+      "Advance A/C",
+      "0",
+      "71000",
+      "556016"
+    ],
+    [
+      "27",
+      "Diabetes test Steeps",
+      "0",
+      "1486",
+      "10372"
+    ],
+    [
+      "28",
+      "Grant A/C",
+      "0",
+      "0",
+      "100000"
+    ],
+    [
+      "29",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "4000"
+    ],
+    [
+      "30",
+      "Salary & Allowance A/C",
+      "0",
+      "136000",
+      "722568"
+    ],
+    [
+      "31",
+      "Travelling & Conveyance A/C",
+      "0",
+      "20000",
+      "88798"
+    ],
+    [
+      "32",
+      "Office Maintenance A/C",
+      "0",
+      "0",
+      "1349"
+    ],
+    [
+      "33",
+      "Entertainment A/C",
+      "0",
+      "9292",
+      "10012"
+    ],
+    [
+      "34",
+      "Mobile & Telephone Bill A/C",
+      "0",
+      "4000",
+      "20000"
+    ],
+    [
+      "35",
+      "Camp Arrangement Fee",
+      "0",
+      "0",
+      "1000"
+    ],
+    [
+      "36",
+      "Stock of Goods-Singer",
+      "0",
+      "83232",
+      "322874"
+    ],
+    [
+      "37",
+      "Commision of Singer",
+      "0",
+      "1000",
+      "4500"
+    ],
+    [
+      "38",
+      "Optic (Glass)",
+      "0",
+      "25250",
+      "32088"
+    ],
+    [
+      "39",
+      "Commision of Walton",
+      "0",
+      "0",
+      "500"
+    ],
+    [
+      "40",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "41",
+      "Bank Charge & Commission A/C",
+      "0",
+      "668",
+      "1415"
+    ],
+    [
+      "42",
+      "Service Charge paid Head Office",
+      "0",
+      "50000",
+      "120000"
+    ],
+    [
+      "43",
+      "Printing & Stationary A/C",
+      "0",
+      "0",
+      "20000"
+    ],
+    [
+      "44",
+      "Health Equipment A/C",
+      "0",
+      "180",
+      "180"
+    ],
+    [
+      "45",
+      "Medicine A/C",
+      "0",
+      "40807",
+      "40807"
+    ],
+    [
+      "46",
+      "Telemedicine Fee",
+      "0",
+      "15300",
+      "15300"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "458215",
+      "2093179  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "1152",
+      "1152",
+      "1152"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "1640",
+      "1640",
+      "1640"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "2792",
+      "2792",
+      "2792"
+    ],
+    [
+      "Total Payments",
+      "2792",
+      "461007",
+      "2095971"
+    ]
+  ],
+  "Panchaboti": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "600",
+      "3": "1400",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "102303",
+      "3": "77171",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "102903",
+      "3": "78571",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "2939"
+    ],
+    [
+      "6",
+      "Grant A/C",
+      "0",
+      "50000",
+      "450000"
+    ],
+    [
+      "7",
+      "Staff Wellfare Fund (SWF)",
+      "0",
+      "0",
+      "600"
+    ],
+    [
+      "8",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "14000"
+    ],
+    [
+      "9",
+      "Advance A/C",
+      "0",
+      "90000",
+      "995500"
+    ],
+    [
+      "10",
+      "Health Card Sale A/C",
+      "0",
+      "135600",
+      "978200"
+    ],
+    [
+      "11",
+      "Service Charge of Singer",
+      "0",
+      "15877",
+      "58033"
+    ],
+    [
+      "12",
+      "Bank Interest A/C",
+      "0",
+      "1794",
+      "17682"
+    ],
+    [
+      "13",
+      "Telemedicine Fee",
+      "0",
+      "8200",
+      "11250"
+    ],
+    [
+      "14",
+      "Advise Fee A/C",
+      "0",
+      "0",
+      "420"
+    ],
+    [
+      "15",
+      "Profit-Diabetes Test",
+      "0",
+      "0",
+      "20986"
+    ],
+    [
+      "16",
+      "Pregnancy Test Steep",
+      "0",
+      "0",
+      "315"
+    ],
+    [
+      "17",
+      "Stock of Goods-Singer",
+      "0",
+      "117093",
+      "402526"
+    ],
+    [
+      "18",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "31400"
+    ],
+    [
+      "19",
+      "Service Charge of Walton",
+      "0",
+      "0",
+      "7590"
+    ],
+    [
+      "Total Receipts",
+      "102903",
+      "497135",
+      "2991441"
+    ],
+    [
+      "20",
+      "Office Equipment A/C",
+      "0",
+      "0",
+      "3000"
+    ],
+    [
+      "21",
+      "Furniture & Fixture A/C",
+      "0",
+      "0",
+      "8000"
+    ],
+    [
+      "22",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "7574"
+    ],
+    [
+      "23",
+      "Medicine A/C",
+      "0",
+      "0",
+      "400"
+    ],
+    [
+      "24",
+      "Bank Charge & Commission A/C",
+      "0",
+      "1369",
+      "7461"
+    ],
+    [
+      "25",
+      "Salary & Allowance A/C",
+      "0",
+      "0",
+      "325185"
+    ],
+    [
+      "26",
+      "Travelling & Conveyance A/C",
+      "0",
+      "0",
+      "860"
+    ],
+    [
+      "27",
+      "Printing & Stationary A/C",
+      "0",
+      "250",
+      "1130"
+    ],
+    [
+      "28",
+      "Office Maintenance A/C",
+      "0",
+      "0",
+      "1855"
+    ],
+    [
+      "29",
+      "Entertainment A/C",
+      "0",
+      "0",
+      "300"
+    ],
+    [
+      "30",
+      "Postage & Telegram A/C",
+      "0",
+      "0",
+      "400"
+    ],
+    [
+      "31",
+      "Pregnancy Test Steep",
+      "0",
+      "0",
+      "300"
+    ],
+    [
+      "32",
+      "Commision Expenses A/C",
+      "0",
+      "0",
+      "30"
+    ],
+    [
+      "33",
+      "Stock of Goods-Singer",
+      "0",
+      "166463",
+      "452511"
+    ],
+    [
+      "34",
+      "Commision of Singer",
+      "0",
+      "1500",
+      "4500"
+    ],
+    [
+      "35",
+      "Commision of Walton",
+      "0",
+      "0",
+      "500"
+    ],
+    [
+      "36",
+      "Service Charge paid Head Office",
+      "0",
+      "70000",
+      "1321275"
+    ],
+    [
+      "37",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "31400"
+    ],
+    [
+      "38",
+      "Advance A/C",
+      "0",
+      "145000",
+      "695500"
+    ],
+    [
+      "39",
+      "Misc. Expenses A/C",
+      "0",
+      "0",
+      "16707"
+    ],
+    [
+      "40",
+      "Telemedicine Fee",
+      "0",
+      "9650",
+      "9650"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "394232",
+      "2888538  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "600",
+      "600",
+      "600"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "102303",
+      "102303",
+      "102303"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "102903",
+      "102903",
+      "102903"
+    ],
+    [
+      "Total Payments",
+      "102903",
+      "497135",
+      "2991441"
+    ]
+  ],
+  "Dhanmondi": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "400",
+      "3": "0",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "60137",
+      "3": "20601",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "60537",
+      "3": "20601",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Advance A/C",
+      "0",
+      "10000",
+      "92000"
+    ],
+    [
+      "6",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "974"
+    ],
+    [
+      "7",
+      "Grant A/C",
+      "0",
+      "50000",
+      "850000"
+    ],
+    [
+      "8",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "12000"
+    ],
+    [
+      "9",
+      "Health Card Sale A/C",
+      "0",
+      "144000",
+      "794200"
+    ],
+    [
+      "10",
+      "Service Charge of Singer",
+      "0",
+      "6681",
+      "33963"
+    ],
+    [
+      "11",
+      "Bank Interest A/C",
+      "0",
+      "624",
+      "9451"
+    ],
+    [
+      "12",
+      "Advise Fee A/C",
+      "0",
+      "0",
+      "500"
+    ],
+    [
+      "13",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "14",
+      "Service Charge of Walton",
+      "0",
+      "0",
+      "6500"
+    ],
+    [
+      "15",
+      "Telemedicine Fee",
+      "0",
+      "2800",
+      "4000"
+    ],
+    [
+      "16",
+      "Stock of Goods-Singer",
+      "0",
+      "55799",
+      "229449"
+    ],
+    [
+      "17",
+      "Profit-Diabetes Test",
+      "0",
+      "0",
+      "20851"
+    ],
+    [
+      "Total Receipts",
+      "60537",
+      "290505",
+      "2075288"
+    ],
+    [
+      "18",
+      "Office Equipment A/C",
+      "0",
+      "0",
+      "2700"
+    ],
+    [
+      "19",
+      "Furniture & Fixture A/C",
+      "0",
+      "0",
+      "8100"
+    ],
+    [
+      "20",
+      "Advance A/C",
+      "0",
+      "10000",
+      "92000"
+    ],
+    [
+      "21",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "7430"
+    ],
+    [
+      "22",
+      "Grant A/C",
+      "0",
+      "0",
+      "100000"
+    ],
+    [
+      "23",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "12000"
+    ],
+    [
+      "24",
+      "Bank Charge & Commission A/C",
+      "0",
+      "1075",
+      "9107"
+    ],
+    [
+      "25",
+      "Salary & Allowance A/C",
+      "0",
+      "0",
+      "230382"
+    ],
+    [
+      "26",
+      "Travelling & Conveyance A/C",
+      "0",
+      "0",
+      "260"
+    ],
+    [
+      "27",
+      "Printing & Stationary A/C",
+      "0",
+      "0",
+      "34415"
+    ],
+    [
+      "28",
+      "Office Maintenance A/C",
+      "0",
+      "0",
+      "3395"
+    ],
+    [
+      "29",
+      "Entertainment A/C",
+      "0",
+      "346",
+      "5661"
+    ],
+    [
+      "30",
+      "Stock of Goods-Singer",
+      "0",
+      "54047",
+      "229449"
+    ],
+    [
+      "31",
+      "Commision of Singer",
+      "0",
+      "1000",
+      "3000"
+    ],
+    [
+      "32",
+      "Commision of Walton",
+      "0",
+      "0",
+      "500"
+    ],
+    [
+      "33",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "42800"
+    ],
+    [
+      "34",
+      "Service Charge paid Head Office",
+      "0",
+      "160000",
+      "1230000"
+    ],
+    [
+      "35",
+      "Postage & Telegram A/C",
+      "0",
+      "0",
+      "52"
+    ],
+    [
+      "36",
+      "Telemedicine Fee",
+      "0",
+      "3700",
+      "3700"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "230168",
+      "2014951  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "400",
+      "400",
+      "400"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "60137",
+      "60137",
+      "60137"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "60537",
+      "60537",
+      "60537"
+    ],
+    [
+      "Total Payments",
+      "60537",
+      "290705",
+      "2075488"
+    ]
+  ],
+  "Armanitola": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "2026",
+      "3": "2800",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "65487",
+      "3": "57912",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "67513",
+      "3": "60712",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Service Charge of Singer",
+      "0",
+      "0",
+      "43071"
+    ],
+    [
+      "6",
+      "Bank Interest A/C",
+      "0",
+      "1243",
+      "20197"
+    ],
+    [
+      "7",
+      "Telemedicine Fee",
+      "0",
+      "0",
+      "150"
+    ],
+    [
+      "8",
+      "Advise Fee A/C",
+      "0",
+      "0",
+      "80"
+    ],
+    [
+      "9",
+      "Profit-Diabetes Test",
+      "0",
+      "0",
+      "14730"
+    ],
+    [
+      "10",
+      "Grant A/C",
+      "0",
+      "50000",
+      "550000"
+    ],
+    [
+      "11",
+      "Stock of Goods-Singer",
+      "0",
+      "0",
+      "270670"
+    ],
+    [
+      "12",
+      "Health Card Sale A/C",
+      "0",
+      "138600",
+      "881800"
+    ],
+    [
+      "13",
+      "Advance A/C",
+      "0",
+      "0",
+      "30000"
+    ],
+    [
+      "14",
+      "Misc. Expenses A/C",
+      "0",
+      "0",
+      "61"
+    ],
+    [
+      "Total Receipts",
+      "67513",
+      "250555",
+      "1810759"
+    ],
+    [
+      "15",
+      "Bank Charge & Commission A/C",
+      "0",
+      "1141",
+      "10199"
+    ],
+    [
+      "16",
+      "Printing & Stationary A/C",
+      "0",
+      "0",
+      "38262"
+    ],
+    [
+      "17",
+      "Office Maintenance A/C",
+      "0",
+      "0",
+      "168"
+    ],
+    [
+      "18",
+      "Entertainment A/C",
+      "0",
+      "1251",
+      "13759"
+    ],
+    [
+      "19",
+      "Commision of Singer",
+      "0",
+      "500",
+      "3500"
+    ],
+    [
+      "20",
+      "Stock of Goods-Singer",
+      "0",
+      "0",
+      "320653"
+    ],
+    [
+      "21",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "22",
+      "Service Charge paid Head Office",
+      "0",
+      "150000",
+      "1300000"
+    ],
+    [
+      "23",
+      "Advance A/C",
+      "0",
+      "30000",
+      "35155"
+    ],
+    [
+      "24",
+      "Telemedicine Fee",
+      "0",
+      "150",
+      "150"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "183042",
+      "1743246  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "2026",
+      "2026",
+      "2026"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "65487",
+      "65487",
+      "65487"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "67513",
+      "67513",
+      "67513"
+    ],
+    [
+      "Total Payments",
+      "67513",
+      "250555",
+      "1810759"
+    ]
+  ],
+  "Noyabazarone": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "200",
+      "3": "2875",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "113660",
+      "3": "21942",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "113860",
+      "3": "24817",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Medicine A/C",
+      "0",
+      "0",
+      "4621"
+    ],
+    [
+      "6",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "13361"
+    ],
+    [
+      "7",
+      "Grant A/C",
+      "0",
+      "50000",
+      "950000"
+    ],
+    [
+      "8",
+      "Staff Wellfare Fund (SWF)",
+      "0",
+      "0",
+      "650"
+    ],
+    [
+      "9",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "14000"
+    ],
+    [
+      "10",
+      "Health Card Sale A/C",
+      "0",
+      "181800",
+      "1710800"
+    ],
+    [
+      "11",
+      "Registration Fee",
+      "0",
+      "0",
+      "2947"
+    ],
+    [
+      "12",
+      "Profit of Medicine sale",
+      "0",
+      "0",
+      "1104"
+    ],
+    [
+      "13",
+      "Test-Investigation A/C",
+      "0",
+      "0",
+      "100"
+    ],
+    [
+      "14",
+      "Service Charge of Singer",
+      "0",
+      "5693",
+      "28121"
+    ],
+    [
+      "15",
+      "Bank Charge & Commission A/C",
+      "0",
+      "0",
+      "9597"
+    ],
+    [
+      "16",
+      "Telemedicine Fee",
+      "0",
+      "0",
+      "1500"
+    ],
+    [
+      "17",
+      "Advise Fee A/C",
+      "0",
+      "0",
+      "1050"
+    ],
+    [
+      "18",
+      "Profit-Diabetes Test",
+      "0",
+      "0",
+      "30659"
+    ],
+    [
+      "19",
+      "Pregnancy Test Steep",
+      "0",
+      "0",
+      "220"
+    ],
+    [
+      "20",
+      "Stock of Goods-Singer",
+      "0",
+      "71288",
+      "355395"
+    ],
+    [
+      "21",
+      "Bank Interest A/C",
+      "0",
+      "645",
+      "8084"
+    ],
+    [
+      "22",
+      "Advance A/C",
+      "0",
+      "226000",
+      "251000"
+    ],
+    [
+      "23",
+      "Stock of Goods-Walton",
+      "0",
+      "31400",
+      "31400"
+    ],
+    [
+      "24",
+      "Service Charge of Walton",
+      "0",
+      "7590",
+      "7590"
+    ],
+    [
+      "Total Receipts",
+      "113860",
+      "599233",
+      "3422199"
+    ],
+    [
+      "25",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "7450"
+    ],
+    [
+      "26",
+      "Staff Scecurity",
+      "0",
+      "0",
+      "6000"
+    ],
+    [
+      "27",
+      "Bank Charge & Commission A/C",
+      "0",
+      "1172",
+      "8279"
+    ],
+    [
+      "28",
+      "Salary & Allowance A/C",
+      "0",
+      "0",
+      "374421"
+    ],
+    [
+      "29",
+      "Travelling & Conveyance A/C",
+      "0",
+      "0",
+      "45313"
+    ],
+    [
+      "30",
+      "Printing & Stationary A/C",
+      "0",
+      "0",
+      "40270"
+    ],
+    [
+      "31",
+      "Office Maintenance A/C",
+      "0",
+      "0",
+      "10448"
+    ],
+    [
+      "32",
+      "Entertainment A/C",
+      "0",
+      "348",
+      "4431"
+    ],
+    [
+      "33",
+      "Mobile & Telephone Bill A/C",
+      "0",
+      "0",
+      "11871"
+    ],
+    [
+      "34",
+      "Pregnancy Test Steep",
+      "0",
+      "0",
+      "30"
+    ],
+    [
+      "35",
+      "Commision Expenses A/C",
+      "0",
+      "0",
+      "595"
+    ],
+    [
+      "36",
+      "Commision of Singer",
+      "0",
+      "1000",
+      "3500"
+    ],
+    [
+      "37",
+      "Stock of Goods-Singer",
+      "0",
+      "74853",
+      "380602"
+    ],
+    [
+      "38",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "31400"
+    ],
+    [
+      "39",
+      "Service Charge paid Head Office",
+      "0",
+      "0",
+      "1923090"
+    ],
+    [
+      "40",
+      "Commision of Walton",
+      "0",
+      "500",
+      "500"
+    ],
+    [
+      "41",
+      "Misc. Expenses A/C",
+      "0",
+      "0",
+      "52639"
+    ],
+    [
+      "42",
+      "Optic (Glass)",
+      "0",
+      "176000",
+      "176000"
+    ],
+    [
+      "43",
+      "Advance A/C",
+      "0",
+      "230000",
+      "230000"
+    ],
+    [
+      "44",
+      "Telemedicine Fee",
+      "0",
+      "1500",
+      "1500"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "485373",
+      "3308339  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "200",
+      "200",
+      "200"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "113660",
+      "113660",
+      "113660"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "113860",
+      "113860",
+      "113860"
+    ],
+    [
+      "Total Payments",
+      "113860",
+      "599233",
+      "3422199"
+    ]
+  ],
+  "noyabazar090": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "800",
+      "3": "999",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "64082",
+      "3": "74149",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "64882",
+      "3": "75148",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Grant A/C",
+      "0",
+      "50000",
+      "250000"
+    ],
+    [
+      "6",
+      "Service Charge of Singer",
+      "0",
+      "3781",
+      "35264"
+    ],
+    [
+      "7",
+      "Stock of Goods-Singer",
+      "0",
+      "0",
+      "144606"
+    ],
+    [
+      "8",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "9",
+      "Service Charge of Walton",
+      "0",
+      "0",
+      "6500"
+    ],
+    [
+      "10",
+      "Telemedicine Fee",
+      "0",
+      "200",
+      "400"
+    ],
+    [
+      "11",
+      "Health Card Sale A/C",
+      "0",
+      "112400",
+      "636200"
+    ],
+    [
+      "12",
+      "Provision-Stock of Goods-Singer",
+      "0",
+      "25209",
+      "25209"
+    ],
+    [
+      "Total Receipts",
+      "64882",
+      "266738",
+      "1119579"
+    ],
+    [
+      "13",
+      "Bank Charge & Commission A/C",
+      "0",
+      "840",
+      "2035"
+    ],
+    [
+      "14",
+      "Salary & Allowance A/C",
+      "0",
+      "0",
+      "5690"
+    ],
+    [
+      "15",
+      "Entertainment A/C",
+      "0",
+      "116",
+      "7586"
+    ],
+    [
+      "16",
+      "Commision of Singer",
+      "0",
+      "500",
+      "2500"
+    ],
+    [
+      "17",
+      "Commision of Walton",
+      "0",
+      "0",
+      "500"
+    ],
+    [
+      "18",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "19",
+      "Service Charge paid Head Office",
+      "0",
+      "200000",
+      "530000"
+    ],
+    [
+      "20",
+      "Stock of Goods-Singer",
+      "0",
+      "0",
+      "183718"
+    ],
+    [
+      "21",
+      "Health Card Sale A/C",
+      "0",
+      "0",
+      "300868"
+    ],
+    [
+      "22",
+      "Telemedicine Fee",
+      "0",
+      "400",
+      "400"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "201856",
+      "1054697  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "800",
+      "800",
+      "800"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "64082",
+      "64082",
+      "64082"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "64882",
+      "64882",
+      "64882"
+    ],
+    [
+      "Total Payments",
+      "64882",
+      "266738",
+      "1119579"
+    ]
+  ],
+  "Noyabazar-2": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "400",
+      "3": "1600",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "119901",
+      "3": "67937",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "120301",
+      "3": "69537",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Health Card Sale A/C",
+      "0",
+      "102000",
+      "510200"
+    ],
+    [
+      "6",
+      "Service Charge of Singer",
+      "0",
+      "0",
+      "25463"
+    ],
+    [
+      "7",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "8",
+      "Service Charge of Walton",
+      "0",
+      "0",
+      "8590"
+    ],
+    [
+      "9",
+      "Grant A/C",
+      "0",
+      "50000",
+      "150000"
+    ],
+    [
+      "10",
+      "Stock of Goods-Singer",
+      "0",
+      "0",
+      "211858"
+    ],
+    [
+      "Total Receipts",
+      "120301",
+      "221537",
+      "927511"
+    ],
+    [
+      "11",
+      "Bank Charge & Commission A/C",
+      "0",
+      "955",
+      "2150"
+    ],
+    [
+      "12",
+      "Office Maintenance A/C",
+      "0",
+      "0",
+      "336"
+    ],
+    [
+      "13",
+      "Entertainment A/C",
+      "0",
+      "0",
+      "6516"
+    ],
+    [
+      "14",
+      "Commision of Singer",
+      "0",
+      "0",
+      "1500"
+    ],
+    [
+      "15",
+      "Stock of Goods-Singer",
+      "0",
+      "0",
+      "249240"
+    ],
+    [
+      "16",
+      "Commision of Walton",
+      "0",
+      "0",
+      "500"
+    ],
+    [
+      "17",
+      "Printing & Stationary A/C",
+      "0",
+      "0",
+      "20300"
+    ],
+    [
+      "18",
+      "Travelling & Conveyance A/C",
+      "0",
+      "481",
+      "902"
+    ],
+    [
+      "19",
+      "Service Charge paid Head Office",
+      "0",
+      "100000",
+      "300000"
+    ],
+    [
+      "20",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "21400"
+    ],
+    [
+      "21",
+      "Health Card Sale A/C",
+      "0",
+      "0",
+      "204566"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "101436",
+      "807410  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "400",
+      "400",
+      "400"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "119901",
+      "119901",
+      "119901"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "120301",
+      "120301",
+      "120301"
+    ],
+    [
+      "Total Payments",
+      "120301",
+      "221737",
+      "927711"
+    ]
+  ],
+  "Siddirgonj": [
+    {
+      "0": "SL No",
+      "1": "Description",
+      "2": "This Month : (2024-2-01 To 2024-02-29)",
+      "3": "This Year :  (2023-07-01 To 2024-02-29)",
+      "4": "Cumulative : Up To (2024-02-29)"
+    },
+    {
+      "0": "1",
+      "1": "Opening Balance"
+    },
+    {
+      "0": "2",
+      "1": "Cash in Hand",
+      "2": "400",
+      "3": "200",
+      "4": "0"
+    },
+    {
+      "0": "3",
+      "1": "Cash at Bank",
+      "2": "231252",
+      "3": "190447",
+      "4": "0"
+    },
+    {
+      "0": "4",
+      "1": "Total Cash in Hand & Cash at Bank",
+      "2": "231652",
+      "3": "190647",
+      "4": "0"
+    },
+    {
+      "0": "Payments"
+    },
+    [
+      "5",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "8179"
+    ],
+    [
+      "6",
+      "Bank Interest A/C",
+      "0",
+      "1583",
+      "7678"
+    ],
+    [
+      "7",
+      "Profit-Diabetes Test",
+      "0",
+      "0",
+      "19246"
+    ],
+    [
+      "8",
+      "Pregnancy Test Steep",
+      "0",
+      "0",
+      "195"
+    ],
+    [
+      "9",
+      "Nebulization",
+      "0",
+      "0",
+      "450"
+    ],
+    [
+      "10",
+      "Advise Fee A/C",
+      "0",
+      "0",
+      "1560"
+    ],
+    [
+      "11",
+      "Grant A/C",
+      "0",
+      "50000",
+      "700000"
+    ],
+    [
+      "12",
+      "Stock of Goods-Singer",
+      "0",
+      "61721",
+      "765875"
+    ],
+    [
+      "13",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "52800"
+    ],
+    [
+      "14",
+      "Service Charge of Walton",
+      "0",
+      "0",
+      "14090"
+    ],
+    [
+      "15",
+      "Advance A/C",
+      "0",
+      "0",
+      "95000"
+    ],
+    [
+      "16",
+      "Service Charge of Singer",
+      "0",
+      "9269",
+      "113310"
+    ],
+    [
+      "17",
+      "Health Card Sale A/C",
+      "0",
+      "257000",
+      "1437600"
+    ],
+    [
+      "18",
+      "Telemedicine Fee",
+      "0",
+      "1000",
+      "1000"
+    ],
+    [
+      "Total Receipts",
+      "231652",
+      "571220",
+      "3216983"
+    ],
+    [
+      "19",
+      "Office Equipment A/C",
+      "0",
+      "0",
+      "12415"
+    ],
+    [
+      "20",
+      "Furniture & Fixture A/C",
+      "0",
+      "0",
+      "9300"
+    ],
+    [
+      "21",
+      "Diabetes test Steeps",
+      "0",
+      "0",
+      "10500"
+    ],
+    [
+      "22",
+      "Bank Charge & Commission A/C",
+      "0",
+      "1485",
+      "9545"
+    ],
+    [
+      "23",
+      "Salary & Allowance A/C",
+      "0",
+      "0",
+      "126953"
+    ],
+    [
+      "24",
+      "Travelling & Conveyance A/C",
+      "0",
+      "0",
+      "190"
+    ],
+    [
+      "25",
+      "Printing & Stationary A/C",
+      "0",
+      "800",
+      "20185"
+    ],
+    [
+      "26",
+      "Stock of Goods-Singer",
+      "0",
+      "195858",
+      "735014"
+    ],
+    [
+      "27",
+      "Service Charge paid Head Office",
+      "0",
+      "50000",
+      "1900000"
+    ],
+    [
+      "28",
+      "Commision of Walton",
+      "0",
+      "0",
+      "1000"
+    ],
+    [
+      "29",
+      "Advance A/C",
+      "0",
+      "90000",
+      "95000"
+    ],
+    [
+      "30",
+      "Office Maintenance A/C",
+      "0",
+      "0",
+      "900"
+    ],
+    [
+      "31",
+      "Entertainment A/C",
+      "0",
+      "225",
+      "3329"
+    ],
+    [
+      "32",
+      "Stock of Goods-Walton",
+      "0",
+      "0",
+      "52800"
+    ],
+    [
+      "33",
+      "Commision of Singer",
+      "0",
+      "1000",
+      "8000"
+    ],
+    [
+      "34",
+      "Telemedicine Fee",
+      "0",
+      "200",
+      "200"
+    ],
+    [
+      "Total Payments",
+      "0",
+      "339568",
+      "2985331  \n                                  \n                        "
+    ],
+    [
+      "",
+      "Cash in Hand",
+      "400",
+      "400",
+      "400"
+    ],
+    [
+      "",
+      "Cash at Bank",
+      "231252",
+      "231252",
+      "231252"
+    ],
+    [
+      "Total Cash in Hand & Cash at Bank",
+      "231652",
+      "231652",
+      "231652"
+    ],
+    [
+      "Total Payments",
+      "231652",
+      "571220",
+      "3216983"
+    ]
+  ]
+}

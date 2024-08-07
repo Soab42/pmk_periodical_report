@@ -1,0 +1,333 @@
+{
+  "branch_type": "Z",
+  "region_zone_area_id": "8",
+  "branches_info": [
+    {
+      "branch_id": "219",
+      "branch_name": "Noyabazar-1 Area",
+      "branch_code": "A-020",
+      "branch_type": "A",
+      "branch_address": "Noyabazar-1"
+    },
+    {
+      "branch_id": "220",
+      "branch_name": "Lalbag Area",
+      "branch_code": "A-021",
+      "branch_type": "A",
+      "branch_address": "Lalbag"
+    },
+    {
+      "branch_id": "223",
+      "branch_name": "Azampur Area",
+      "branch_code": "A-023",
+      "branch_type": "A",
+      "branch_address": "Azampur"
+    },
+    {
+      "branch_id": "224",
+      "branch_name": "Sabajbag Area",
+      "branch_code": "A-024",
+      "branch_type": "A",
+      "branch_address": "Sabajbag"
+    },
+    {
+      "branch_id": "346",
+      "branch_name": "Fatulla-2 Area",
+      "branch_code": "A-068",
+      "branch_type": "A",
+      "branch_address": "House name: Narayangonj Sadar, Area: Narayangonj Sadar, PostOffice: Fatullah, Thana: Fatullah, District: Narayanganj, Division: Dhaka , Country: Bangladesh"
+    },
+    {
+      "branch_id": "10",
+      "branch_name": "Azampur",
+      "branch_code": "010",
+      "branch_type": "B",
+      "branch_address": "House name: Foydabad modhypara, Area: Azampur, PostOffice: Uttara Model TwonTSO, 1230- Thana: Uttara, District: Dhaka, Division: Dhaka , Country: Bangladesh"
+    },
+    {
+      "branch_id": "12",
+      "branch_name": "Noyabazar-1",
+      "branch_code": "012",
+      "branch_type": "B",
+      "branch_address": "House name: Basabari lan, Area: Noyabazar, PostOffice: BangabhabanTSO, 1222- Thana: Motijheel, District: Dhaka, Division: Dhaka , Country: Bangladesh"
+    },
+    {
+      "branch_id": "14",
+      "branch_name": "Armanitola",
+      "branch_code": "014",
+      "branch_type": "B",
+      "branch_address": "House name: Basabari lan, Area: Noyabazar, PostOffice: BangabhabanTSO, 1222- Thana: Motijheel, District: Dhaka, Division: Dhaka , Country: Bangladesh"
+    },
+    {
+      "branch_id": "16",
+      "branch_name": "Fotulla-1",
+      "branch_code": "016",
+      "branch_type": "B",
+      "branch_address": "House name: Delpara, Area: Sastapur Area, PostOffice: Fatullah, 1420- Thana: Fatullah, District: Narayanganj, Division: Dhaka , Country: Bangladesh"
+    },
+    {
+      "branch_id": "44",
+      "branch_name": "Dhanmondi",
+      "branch_code": "020",
+      "branch_type": "B",
+      "branch_address": "Shongkor, Dhanmondi, Dhaka-1207."
+    },
+    {
+      "branch_id": "24",
+      "branch_name": "Badda",
+      "branch_code": "022",
+      "branch_type": "B",
+      "branch_address": "House name: Uttar Badda, Area: Sabujbag, PostOffice: Basabo TSO, 1214- Thana: Sabujbag, District: Dhaka, Division: Dhaka , Country: Bangladesh"
+    },
+    {
+      "branch_id": "45",
+      "branch_name": "Konapara",
+      "branch_code": "024",
+      "branch_type": "B",
+      "branch_address": "House name: Parargard, Demra, Area: Sabujbag, PostOffice: Demra, 136- Thana: Demra, District: Dhaka, Division: Dhaka , Country: Bangladesh"
+    },
+    {
+      "branch_id": "26",
+      "branch_name": "Sabuzbag",
+      "branch_code": "026",
+      "branch_type": "B",
+      "branch_address": "House name: Ghulshan-2, Area: Sabujbag, PostOffice: Basabo TSO, 1214- Thana: Sabujbag, District: Dhaka, Division: Dhaka , Country: Bangladesh"
+    },
+    {
+      "branch_id": "27",
+      "branch_name": "Jatrabari",
+      "branch_code": "040",
+      "branch_type": "B",
+      "branch_address": "House name: 16 shohid Faruk sorok, Area: Sabujbag, PostOffice: Dhania TSO, 1232- Thana: Jatrabari, District: Dhaka, Division: Dhaka , Country: Bangladesh"
+    },
+    {
+      "branch_id": "29",
+      "branch_name": "Lalbag",
+      "branch_code": "044",
+      "branch_type": "B",
+      "branch_address": "House name: Nawbabgoanj Road, Area: Lalbag, PostOffice: Posta TSO, 1211- Thana: Lalbag, District: Dhaka, Division: Dhaka , Country: Bangladesh"
+    },
+    {
+      "branch_id": "31",
+      "branch_name": "Shamoly",
+      "branch_code": "053",
+      "branch_type": "B",
+      "branch_address": "House name: Ring Road, Shamoli, Area: Mirpur, PostOffice: Mohammadpur Housing, 1207- Thana: Mohammadpur, District: Dhaka, Division: Dhaka , Country: Bangladesh"
+    },
+    {
+      "branch_id": "62",
+      "branch_name": "Panchaboti",
+      "branch_code": "057",
+      "branch_type": "B",
+      "branch_address": "Anayet Nogar-1421, Fatulla, Narayangonj."
+    },
+    {
+      "branch_id": "66",
+      "branch_name": "Dakkhin Khan",
+      "branch_code": "063",
+      "branch_type": "B",
+      "branch_address": "House name: Shahid Latif Road, Area: Dakkhin Khan, PostOffice: Daskhinkhan, Thana: Daskhinkhan, District: Dhaka, Division: Dhaka , Country: Bangladesh"
+    },
+    {
+      "branch_id": "36",
+      "branch_name": "Postogola",
+      "branch_code": "069",
+      "branch_type": "B",
+      "branch_address": "Rajabari, Faridabag, Shampur, Dhaka"
+    },
+    {
+      "branch_id": "83",
+      "branch_name": "Fotulla-2",
+      "branch_code": "073",
+      "branch_type": "B",
+      "branch_address": "Dhakkhin Noyamati, Kotobpur, Fotulla, Narayangonj."
+    },
+    {
+      "branch_id": "76",
+      "branch_name": "Siddirgonj",
+      "branch_code": "076",
+      "branch_type": "B",
+      "branch_address": "House name: House # 155, Word # 06, Sonamia Market, Adjinagar, Area: Sastapur Area, PostOffice: Siddirganj, 1430- Thana: Siddirganj, District: Narayanganj, Division: Dhaka , Country: Bangladesh"
+    },
+    {
+      "branch_id": "92",
+      "branch_name": "Noyabazar-3",
+      "branch_code": "090",
+      "branch_type": "B",
+      "branch_address": "House name: Basabari lan, Area: Noyabazar, PostOffice: BangabhabanTSO, 1222- Thana: Motijheel, District: Dhaka, Division: Dhaka , Country: Bangladesh"
+    },
+    {
+      "branch_id": "124",
+      "branch_name": "Uttara",
+      "branch_code": "103",
+      "branch_type": "B",
+      "branch_address": "House name: 30, House no.: 30, Road no.: 14, Area: Uttara, Sector: 12, Thana: Uttara, District: Dhaka, Division: Dhaka , Country: Bangladesh"
+    },
+    {
+      "branch_id": "151",
+      "branch_name": "Noyabazar-2",
+      "branch_code": "125",
+      "branch_type": "B",
+      "branch_address": "House name: Nawbab Yousuf Road, Area: Lalbag, PostOffice: BangabhabanTSO, 1222- Thana: Motijheel, District: Dhaka, Division: Dhaka , Country: Bangladesh"
+    }
+  ],
+  "region_options": {
+    "10": {
+      "name": "Zone-008",
+      "child": { "19": "&nbsp;&nbsp;&nbsp;Nayabazar-ME-Monthly Region" }
+    },
+    "7": {
+      "name": "Zone-1",
+      "child": {
+        "9": "&nbsp;&nbsp;&nbsp;Khagdahor Region",
+        "16": "&nbsp;&nbsp;&nbsp;Rajshahi Region",
+        "24": "&nbsp;&nbsp;&nbsp;Joypurhat Region",
+        "25": "&nbsp;&nbsp;&nbsp;Kalihati Region"
+      }
+    },
+    "2": {
+      "name": "Zone-2",
+      "child": {
+        "7": "&nbsp;&nbsp;&nbsp;Hemayetpur Region",
+        "8": "&nbsp;&nbsp;&nbsp;Shyamoli Region"
+      }
+    },
+    "3": {
+      "name": "Zone-3",
+      "child": {
+        "18": "&nbsp;&nbsp;&nbsp;Zirabo-ME-Monthly Region",
+        "22": "&nbsp;&nbsp;&nbsp;Moynamoti-ME-Monthly Region"
+      }
+    },
+    "5": {
+      "name": "Zone-4",
+      "child": {
+        "10": "&nbsp;&nbsp;&nbsp;Nayarhat-1 Region",
+        "6": "&nbsp;&nbsp;&nbsp;Mawna Region",
+        "3": "&nbsp;&nbsp;&nbsp;Narayangonj Region"
+      }
+    },
+    "6": {
+      "name": "Zone-5",
+      "child": {
+        "5": "&nbsp;&nbsp;&nbsp;Noakhali Region",
+        "13": "&nbsp;&nbsp;&nbsp;Feni Region",
+        "12": "&nbsp;&nbsp;&nbsp;Comilla Sadar Region",
+        "15": "&nbsp;&nbsp;&nbsp;Voirob Region"
+      }
+    },
+    "8": {
+      "name": "Zone-6",
+      "child": {
+        "11": "&nbsp;&nbsp;&nbsp;Chandgoan Region",
+        "20": "&nbsp;&nbsp;&nbsp;Jashore Region",
+        "23": "&nbsp;&nbsp;&nbsp;Faridpur Region"
+      }
+    },
+    "9": {
+      "name": "Zone-7",
+      "child": {
+        "4": "&nbsp;&nbsp;&nbsp;Vulta Region",
+        "14": "&nbsp;&nbsp;&nbsp;Chandpur Region"
+      }
+    }
+  },
+  "zone_options": {
+    "8": {
+      "name": "Shyamoli Region",
+      "child": {
+        "27": "&nbsp;&nbsp;&nbsp;Noyabazar-1 Area",
+        "28": "&nbsp;&nbsp;&nbsp;Lalbag Area",
+        "31": "&nbsp;&nbsp;&nbsp;Azampur Area",
+        "32": "&nbsp;&nbsp;&nbsp;Jatrabari Area",
+        "73": "&nbsp;&nbsp;&nbsp;Fatulla-2 Area"
+      }
+    }
+  },
+  "area_options": {
+    "0": "--Select--",
+    "31": {
+      "name": "Azampur Area",
+      "child": {
+        "10": "&nbsp;&nbsp;&nbsp;Azampur",
+        "66": "&nbsp;&nbsp;&nbsp;Dakkhin Khan",
+        "124": "&nbsp;&nbsp;&nbsp;Uttara",
+        "223": "&nbsp;&nbsp;&nbsp;Azampur Area"
+      }
+    },
+    "73": {
+      "name": "Fatulla-2 Area",
+      "child": {
+        "16": "&nbsp;&nbsp;&nbsp;Fotulla-1",
+        "62": "&nbsp;&nbsp;&nbsp;Panchaboti",
+        "83": "&nbsp;&nbsp;&nbsp;Fotulla-2",
+        "76": "&nbsp;&nbsp;&nbsp;Siddirgonj"
+      }
+    },
+    "32": {
+      "name": "Jatrabari Area",
+      "child": {
+        "24": "&nbsp;&nbsp;&nbsp;Badda",
+        "45": "&nbsp;&nbsp;&nbsp;Konapara",
+        "27": "&nbsp;&nbsp;&nbsp;Jatrabari",
+        "36": "&nbsp;&nbsp;&nbsp;Postogola"
+      }
+    },
+    "28": {
+      "name": "Lalbag Area",
+      "child": {
+        "44": "&nbsp;&nbsp;&nbsp;Dhanmondi",
+        "29": "&nbsp;&nbsp;&nbsp;Lalbag",
+        "31": "&nbsp;&nbsp;&nbsp;Shamoly",
+        "220": "&nbsp;&nbsp;&nbsp;Lalbag Area"
+      }
+    },
+    "27": {
+      "name": "Noyabazar-1 Area",
+      "child": {
+        "12": "&nbsp;&nbsp;&nbsp;Noyabazar-1",
+        "14": "&nbsp;&nbsp;&nbsp;Armanitola",
+        "26": "&nbsp;&nbsp;&nbsp;Sabuzbag",
+        "92": "&nbsp;&nbsp;&nbsp;Noyabazar-3",
+        "151": "&nbsp;&nbsp;&nbsp;Noyabazar-2"
+      }
+    }
+  },
+  "report_level": { "1": "Branch", "2": "Area" },
+  "months_info": {
+    "": "--SELECT--",
+    "01": "January",
+    "02": "February",
+    "03": "March",
+    "04": "April",
+    "05": "May",
+    "06": "June",
+    "07": "July",
+    "08": "August",
+    "09": "September",
+    "10": "October",
+    "11": "November",
+    "12": "December"
+  },
+  "year_info": {
+    "2025": 2025,
+    "2024": 2024,
+    "2023": 2023,
+    "2022": 2022,
+    "2021": 2021,
+    "2020": 2020,
+    "2019": 2019,
+    "2018": 2018,
+    "2017": 2017,
+    "2016": 2016,
+    "2015": 2015,
+    "2014": 2014,
+    "2013": 2013,
+    "2012": 2012,
+    "2011": 2011,
+    "2010": 2010
+  },
+  "current_date": "2024-03-03",
+  "headline": "Monthly Targets And Achievement Report",
+  "title": "Monthly Targets And Achievement Report"
+}

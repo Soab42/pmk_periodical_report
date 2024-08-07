@@ -20,7 +20,7 @@ async function scraping(fromDate, toDate) {
   const cluster = await Cluster.launch({
     concurrency: Cluster.CONCURRENCY_CONTEXT, // Run in parallel
     maxConcurrency: 5, // Number of concurrent puppeteer instances
-    puppeteerOptions: { headless: "new", defaultViewport: null },
+    puppeteerOptions: { headless: false, defaultViewport: null },
   });
 
   const resultData = {};
@@ -57,6 +57,7 @@ async function scraping(fromDate, toDate) {
         const toInput = await page.$('input[name="txt_date_to"]');
 
         const searchButton = await page.$(".col-auto > button:nth-child(1)");
+        await delay(2000);
 
         await fromInput.type(fromDate);
 
@@ -65,7 +66,30 @@ async function scraping(fromDate, toDate) {
         await page.select("#cbo_service_charge", "0"); // Replace 'your_option_value' with the actual value you want to select
 
         await searchButton.click();
+        await delay(5000);
 
+        // return new Promise(async (resolve) => {
+        //   // Listen for network responses
+        //   page.on("response", async (response) => {
+        //     const url = response.url();
+
+        //     if (
+        //       url.includes(
+        //         "periodical_progress_reports/ajax_for_periodical_progress_report"
+        //       )
+        //     ) {
+        //       const responseBody = await response.json();
+        //       jsonData[username] = responseBody; //can i add something that make it json data
+        //       // console.log(responseBody);
+        //       if (responseBody) {
+        //         resolve(jsonData);
+        //       }
+        //     }
+        //   });
+
+        //   // Close the browser when done
+        //   // await browser.close();
+        // });
         return new Promise(async (resolve) => {
           // Listen for network responses
           page.on("response", async (response) => {
@@ -76,11 +100,22 @@ async function scraping(fromDate, toDate) {
                 "periodical_progress_reports/ajax_for_periodical_progress_report"
               )
             ) {
-              const responseBody = await response.json();
-              jsonData[username] = responseBody; //can i add something that make it json data
-              // console.log(responseBody);
-              if (responseBody) {
-                resolve(jsonData);
+              try {
+                const responseBody = await response.json();
+
+                // Ensure responseBody is not null or undefined
+                if (responseBody) {
+                  jsonData[username] = responseBody;
+                  resolve(jsonData);
+                } else {
+                  // Handle cases where responseBody is empty or invalid
+                  console.error("Empty or invalid response body");
+                  resolve(null); // or handle it differently based on your needs
+                }
+              } catch (error) {
+                // Handle JSON parsing error
+                console.error("Failed to parse JSON response:", error);
+                resolve(null); // or handle it differently based on your needs
               }
             }
           });
@@ -111,7 +146,7 @@ async function scraping(fromDate, toDate) {
   await cluster.close();
 
   // Save the collected data as a JSON file
-  fs.writeFileSync("periodical.json", JSON.stringify(jsonData, null, 2));
+  fs.writeFileSync("./data/periodical.json", JSON.stringify(jsonData, null, 2));
   return jsonData;
 }
 

@@ -1,7 +1,8 @@
 import { Cluster } from "puppeteer-cluster";
 import * as fs from "fs";
-import fbs from "./fbs.json" assert { type: "json" };
-
+import { readFileSync } from 'fs';
+import ExcelJS from 'exceljs'; // Import exceljs for Excel manipulation
+const fbs = JSON.parse(readFileSync('./data/fbs.json', 'utf-8'));
 let data = [];
 for (const key in fbs) {
   if (Array.isArray(fbs[key].fdr_info)) {
@@ -24,8 +25,8 @@ async function login(page) {
   const passwordInput = await page.$("#__BVID__13");
   const loginButton = await page.$("button.btn:nth-child(3)");
 
-  await usernameInput.type("username");
-  await passwordInput.type("password");
+  await usernameInput.type("nayabazarregion6");
+  await passwordInput.type("nayabazarregion2662");
   await loginButton.click();
 
   await page.waitForNavigation();
@@ -85,8 +86,28 @@ export async function fbsReport() {
 
   await cluster.idle();
   await cluster.close();
+   // add excel writing
+  // Write data to Excel using exceljs
+  const workbook = new ExcelJS.Workbook();
+  const worksheet = workbook.addWorksheet('FBS Report');
+
+  // Assuming resultData structure, modify as per your actual resultData structure
+  for (const memberId in resultData) {
+    if (resultData.hasOwnProperty(memberId)) {
+      const rowData = resultData[memberId];
+      // Add data to Excel worksheet
+      worksheet.addRow([memberId, JSON.stringify(rowData)]);
+    }
+  }
+
+  // Save the workbook to a file
+  const excelFilePath = './data/fbs_report.xlsx';
+  await workbook.xlsx.writeFile(excelFilePath);
 
   // Save the collected data as a JSON file
-  fs.writeFileSync("fbs_report.json", JSON.stringify(resultData, null, 2));
+  fs.writeFileSync(
+    "./data/fbs_report.json",
+    JSON.stringify(resultData, null, 2)
+  );
   return resultData;
 }
